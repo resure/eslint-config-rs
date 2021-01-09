@@ -1,0 +1,28 @@
+{
+  "name": "eslint-config-rs",
+  "version": "0.0.0",
+  "description": "Simple ESLint config for my projects",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/resure/eslint-config-rs.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "homepage": "https://github.com/resure/eslint-config-rs",
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.0.0",
+    "@typescript-eslint/parser": "^4.0.0",
+    "eslint-plugin-react": "^7.0.0",
+    "eslint-plugin-react-hooks": "^4.0.0",
+    "eslint-plugin-security": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.0.0",
+    "np": "^7.0.0"
+  },
+  "peerDependencies": {
+    "eslint": "^7.0.0"
+  }
+}
